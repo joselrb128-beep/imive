@@ -1,0 +1,62 @@
+imive — cómo instalarla en el celular de Lari
+==============================================
+
+En esta carpeta hay 8 archivos. Los necesitas TODOS:
+  index.html · manifest.json · sw.js · icon-192.png · icon-512.png
+  icon-maskable-512.png · apple-touch-icon.png · favicon.png
+
+PARTE 1 · Publicar la app gratis (en tu computadora, una sola vez, ~10 min)
+---------------------------------------------------------------------------
+1. Entra a https://github.com y crea una cuenta gratis (Sign up).
+   Anota tu nombre de usuario (por ejemplo: josehn).
+2. Arriba a la derecha toca "+" > "New repository".
+     · Repository name: imive
+     · Marca "Public"
+     · Toca "Create repository".
+3. En la página que aparece, toca el enlace "uploading an existing file".
+4. Arrastra LOS 8 ARCHIVOS (no la carpeta) al recuadro.
+   Espera a que suban y toca el botón verde "Commit changes".
+5. Ve a "Settings" (arriba) > "Pages" (menú izquierdo).
+     · Source: "Deploy from a branch"
+     · Branch: "main" y carpeta "/ (root)" > "Save".
+6. Espera 1 a 3 minutos y recarga esa página. Arriba saldrá:
+     "Your site is live at https://TU-USUARIO.github.io/imive/"
+   Ese es el enlace de la app. Ábrelo en tu PC para comprobar que funciona.
+
+PARTE 2 · Instalarla en el HONOR de Lari (2 minutos)
+----------------------------------------------------
+1. Mándale el enlace por WhatsApp.
+2. Que lo abra con GOOGLE CHROME (no con el navegador de Honor).
+   Si WhatsApp lo abre en otro navegador: mantener presionado el enlace >
+   copiar > pegarlo en Chrome. Si no tiene Chrome, lo instala gratis
+   desde la Play Store.
+3. Con la app abierta en Chrome: menú ⋮ (arriba a la derecha) >
+   "Instalar app" (en algunos teléfonos dice "Agregar a pantalla
+   principal" y luego "Instalar").
+4. Aparecerá el ícono "imive" con la carita de Jose en su pantalla.
+   Desde ahí se abre como una app normal, a pantalla completa.
+5. La primera vez necesita internet. Después funciona SIN internet.
+
+OPCIONAL · Convertirla en archivo APK
+-------------------------------------
+1. Entra a https://www.pwabuilder.com y pega tu enlace de GitHub.
+2. "Package for stores" > Android > "Generate Package" y descarga el .zip.
+3. Dentro viene un archivo .apk. Pásalo al celular e instálalo
+   (Android pedirá permitir "instalar apps de fuentes desconocidas").
+   Con la instalación de la Parte 2 es suficiente; esto es solo si
+   prefieres un APK.
+
+CÓMO ACTUALIZARLA cuando te dé una versión nueva
+------------------------------------------------
+Repite el paso 3 y 4 de la Parte 1 subiendo los archivos nuevos (se
+reemplazan solos). En el celular de Lari, la app se actualiza sola la
+próxima vez que la abra con internet (a veces hay que cerrarla y
+abrirla dos veces).
+
+IMPORTANTE
+----------
+· El progreso (monedas, ropa, mascotas) se guarda dentro del celular
+  de Lari. Si borra los datos de Chrome o desinstala la app, empieza de
+  cero.
+· El repositorio es público: cualquiera con el enlace podría abrir el
+  juego, pero el enlace no aparece en ningún buscador.
